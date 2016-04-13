@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ClientLinkCI</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.salesforce.ide.builder.default</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.salesforce.ide.nature.default</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Build.xml</name>
+			<type>1</type>
+			<location>C:/SF MIgration tool/Devops/Build.xml</location>
+		</link>
+		<link>
+			<name>build.properties</name>
+			<type>1</type>
+			<location>C:/SF MIgration tool/Devops/build.properties</location>
+		</link>
+		<link>
+			<name>lib/ant-salesforce.jar</name>
+			<type>1</type>
+			<location>C:/SF MIgration tool/ant-salesforce.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
