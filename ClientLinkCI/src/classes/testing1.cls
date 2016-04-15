@@ -1,5 +1,5 @@
 public with sharing class testing1 {
-    /*sample class */
+    /*sample classes */
   Public Double discount();
 
 public class CustomPurchaseOrder implements testing1 {
