@@ -1,5 +1,5 @@
-<apex:page standardController="Case" >
-<!-- Begin Default Content REMOVE THIS -->
+<apex:page standardController="Contact" >
+
 <!-- New LIne added Content REMOVE THIS -->
 <h1>Congratulations</h1>
 This is your new Page
